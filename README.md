@@ -16,4 +16,4 @@ Field name | description
 
 The values are separated by ; characters
 
-Credit for the data goes to hochanh for creating [this website](https://hochanh.github.io/rtk/rtk1-v6/index.html), and of course ot James Heisig for creating [this book](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921/ref=sr_1_1?keywords=remembering+the+kanji&qid=1576138583&s=books&sr=1-1)
+Credit for the data goes to hochanh for creating [this website](https://hochanh.github.io/rtk/rtk1-v6/index.html), and of course to James Heisig for creating [this book](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921/ref=sr_1_1?keywords=remembering+the+kanji&qid=1576138583&s=books&sr=1-1)
